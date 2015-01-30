@@ -1,5 +1,6 @@
 // host mongo data on a nodejs server
-
+// usage:
+//       fpaul@fpaul:~/work# nodejs mongo.js
 var     http    = require('http'),
         mongojs = require('mongojs');
 
